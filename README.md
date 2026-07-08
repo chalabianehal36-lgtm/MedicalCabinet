@@ -245,7 +245,7 @@ This project helped me gain hands-on experience with:
 L3 Informatique — Systèmes Informatiques  
 Université Ferhat Abbas Sétif 1
  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/chalabianehal36-Igtm)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/chalabianehal36-lgtm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chalabianehal36@gmail.com)
  
 ---
