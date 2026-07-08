@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medical Cabinet</string>
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="register_title">إنشاء حساب</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="full_name_hint">د. محمد الأمين</string>
+    <string name="identifier_label">البريد الإلكتروني أو رقم الهاتف</string>
+    <string name="identifier_hint">example@email.com أو 0555123456</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="password_hint">6 أحرف على الأقل</string>
+    <string name="confirm_password_label">تأكيد كلمة المرور</string>
+    <string name="confirm_password_hint">أعد إدخال كلمة المرور</string>
+    <string name="btn_login">دخول</string>
+    <string name="btn_register">إنشاء الحساب</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="switch_to_register">ليس لديك حساب؟ سجل الآن</string>
+    <string name="switch_to_login">لديك حساب بالفعل؟ سجل دخول</string>
+    <string name="welcome_back">مرحباً بعودتك دكتور</string>
+    <string name="create_account_subtitle">أنشئ حسابك للبدء</string>
+    <string name="dashboard_title">Medical Cabinet</string>
+    <string name="subtitle">إدارة العيادة الطبية</string>
+    <string name="greeting">مرحباً،</string>
+    <string name="sections">الأقسام</string>
+    <string name="patients_title">إدارة المرضى</string>
+    <string name="patients_subtitle">عرض، إضافة، تعديل، بحث</string>
+    <string name="appointments_title">المواعيد</string>
+    <string name="appointments_subtitle">جدولة ومتابعة المواعيد</string>
+    <string name="stats_title">الإحصائيات</string>
+    <string name="stats_subtitle">تقارير وأرقام العيادة</string>
+    <string name="logout">خروج</string>
+    <string name="patient_word">مريض</string>
+    <string name="appointment_word">موعد</string>
+    <string name="today_word">اليوم</string>
+    <string name="add_patient">إضافة مريض</string>
+    <string name="search_patient">البحث عن مريض...</string>
+    <string name="patient_name">اسم المريض *</string>
+    <string name="age">العمر *</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="medical_history">التاريخ المرضي</string>
+    <string name="save">حفظ</string>
+    <string name="edit_patient">تعديل بيانات المريض</string>
+    <string name="add_new_patient">إضافة مريض جديد</string>
+    <string name="save_edits">حفظ التعديلات</string>
+    <string name="appt_patient">اسم المريض *</string>
+    <string name="appt_date">التاريخ (مثال: 2025-06-15) *</string>
+    <string name="appt_time">الوقت (مثال: 10:30)</string>
+    <string name="appt_reason">سبب الزيارة</string>
+    <string name="add_appointment">إضافة موعد</string>
+    <string name="status_waiting">منتظر</string>
+    <string name="status_present">حضر</string>
+    <string name="status_absent">غاب</string>
+    <string name="change_status">تغيير حالة الموعد</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="confirm_delete_patient">هل تريد حذف هذا المريض؟</string>
+    <string name="confirm_delete_appt">هل تريد حذف هذا الموعد؟</string>
+    <string name="stats_patients">المرضى</string>
+    <string name="stats_appointments">المواعيد</string>
+    <string name="registered_patients">مريض مسجل</string>
+    <string name="total_appointments">موعد إجمالي</string>
+    <string name="today_appointments">موعد اليوم</string>
+    <string name="language_settings">اللغة</string>
+    <string name="choose_language">اختر اللغة</string>
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_english">English</string>
+    <string name="appointment_list">قائمة المواعيد</string>
+    <!-- Login Errors -->
+    <string name="error_enter_name">ادخل اسمك الكامل</string>
+    <string name="error_enter_identifier">ادخل البريد الإلكتروني أو رقم الهاتف</string>
+    <string name="error_invalid_identifier">ادخل بريد إلكتروني صحيح أو رقم هاتف صحيح</string>
+    <string name="error_enter_password">ادخل كلمة المرور</string>
+    <string name="error_password_short">كلمة المرور يجب أن تكون 6 أحرف على الأقل</string>
+    <string name="error_confirm_password">أكد كلمة المرور</string>
+    <string name="error_password_mismatch">كلمة المرور غير متطابقة</string>
+    <string name="error_wrong_credentials">البريد/الهاتف أو كلمة المرور غير صحيحة</string>
+
+    <!-- Forgot Password Dialog -->
+    <string name="forgot_password_title">إعادة تعيين كلمة المرور</string>
+    <string name="forgot_password_message">سيتم حذف حسابك الحالي وإنشاء حساب جديد.\nهل تريد المتابعة؟</string>
+    <string name="forgot_password_confirm">نعم، إعادة تعيين</string>
+    <string name="forgot_password_toast">أنشئ حسابك من جديد</string>
+
+    <!-- Toast -->
+    <string name="welcome_new_user">مرحباً</string>
+    <string name="error_name_age_required">الاسم والعمر مطلوبان</string>
+    <string name="success_edit">تم التعديل بنجاح</string>
+    <string name="error_edit">خطأ في التعديل</string>
+    <string name="success_add_patient">تم إضافة المريض</string>
+    <string name="error_save">خطأ في الحفظ</string>
+    <string name="error_patient_date_required">اسم المريض والتاريخ مطلوبان</string>
+    <string name="success_add_appointment">تم إضافة الموعد</string>
+    <string name="no_medical_history">لا يوجد تاريخ مرضي</string>
+</resources>

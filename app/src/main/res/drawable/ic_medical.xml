@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="110dp"
+    android:height="110dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- دائرة خلفية -->
+    <path android:fillColor="#FFFFFF1A"
+        android:pathData="M50,50 m-45,0 a45,45 0 1,0 90,0 a45,45 0 1,0 -90,0"/>
+
+    <!-- صليب طبي -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M42,25 L58,25 L58,42 L75,42 L75,58 L58,58 L58,75 L42,75 L42,58 L25,58 L25,42 L42,42 Z"/>
+</vector>
