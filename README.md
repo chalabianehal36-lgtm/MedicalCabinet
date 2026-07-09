@@ -8,10 +8,9 @@
 ![Language](https://img.shields.io/badge/Language-Java-orange)
 ![Database](https://img.shields.io/badge/Database-SQLite-lightblue)
  
----
 ### 🌐 [**Essayez l'application en direct dans votre navigateur →**](https://appetize.io/app/b_5ycqfnxc7nhzie5cziiqautd24)
 *Aucune installation nécessaire — s'exécute dans un véritable émulateur Android directement dans votre navigateur.*
- 
+ ---
 ## 📋 Table des matières
  
 - [À propos](#-à-propos)
